@@ -1,0 +1,1 @@
+# smpa_rsession4_financialdata
